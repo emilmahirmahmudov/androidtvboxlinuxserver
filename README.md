@@ -12,7 +12,9 @@ USB Kabeli: Bəzən Rockchip cihazları üçün USB A-dan USB A-ya (Male-to-Male
 
 Flashing Proqramı: Məsələn, Balena Etcher.
 
-GitHub/İcma Resursları:
+İcma Resursları: https://forum.armbian.com/topic/34923-csc-armbian-for-rk322x-tv-box-boards/
+
+Armbian sistemi img faylları : https://armbian.hosthatch.com/archive/rk322x-box/archive/
 
 RK322x üçün rəsmi dəstək Armbian layihəsinin əsas depozitində deyil, icma tərəfindən dəstəklənən filialdadır. Ən son faylları və dəstəyi aşağıdakı Armbian Forumunda tapa bilərsiniz:
 
